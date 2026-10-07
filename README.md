@@ -56,8 +56,7 @@
 
 ![изображение](https://github.com/sGolubn/11_3_ELK/blob/main/3.jpg)
 
-```
-```
+---
 
 ### Задание 4
 
